@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gasolina ou Etanol</string>
+    <string name="price_of_gas_per_liter">Preço da gasolina por litro</string>
+    <string name="price_of_ethanol_per_liter">Preço do etanol por litro</string>
+    <string name="its_better_to_use">É melhor usar...</string>
+</resources>
